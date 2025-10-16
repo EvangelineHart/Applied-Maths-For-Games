@@ -1,0 +1,4 @@
+﻿  Part 2.cpp
+C:\Users\st20321372\source\repos\Workshop2\Workshop2\Part 2.cpp(16,16): warning C4305: '=': truncation from 'int' to 'uint16_t'
+C:\Users\st20321372\source\repos\Workshop2\Workshop2\Part 2.cpp(16,16): warning C4309: '=': truncation of constant value
+  Workshop2.vcxproj -> C:\Users\st20321372\source\repos\Workshop2\x64\Debug\Workshop2.exe

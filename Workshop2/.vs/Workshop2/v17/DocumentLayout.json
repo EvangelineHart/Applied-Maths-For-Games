@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st20321372\\source\\repos\\Workshop2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{867EA2FB-5083-4002-8F20-DD41C7F5F837}|Workshop2\\Workshop2.vcxproj|C:\\Users\\st20321372\\source\\repos\\Workshop2\\Workshop2\\Part 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{867EA2FB-5083-4002-8F20-DD41C7F5F837}|Workshop2\\Workshop2.vcxproj|solutionrelative:Workshop2\\Part 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Part 2.cpp",
+              "DocumentMoniker": "C:\\Users\\st20321372\\source\\repos\\Workshop2\\Workshop2\\Part 2.cpp",
+              "RelativeDocumentMoniker": "Workshop2\\Part 2.cpp",
+              "ToolTip": "C:\\Users\\st20321372\\source\\repos\\Workshop2\\Workshop2\\Part 2.cpp",
+              "RelativeToolTip": "Workshop2\\Part 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-09T14:08:10.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

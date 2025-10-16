@@ -1,0 +1,11 @@
+﻿  part2.cpp
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(12,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(27,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(28,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(33,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(34,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(41,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(42,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\st20321372\source\repos\My-stuff\Workshop3\Workshop3\part2.cpp(43,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Workshop3.vcxproj -> C:\Users\st20321372\source\repos\My-stuff\Workshop3\x64\Debug\Workshop3.exe
